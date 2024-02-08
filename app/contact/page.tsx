@@ -14,21 +14,21 @@ const socials = [
   // },
   {
     icon: <LinkedinIcon size={20} />,
-    href: "https://www.linkedin.com/in/jiashaoluo/",
+    href: "https://www.linkedin.com/in/steph-tien-ng/",
     label: "LinkedIn",
-    handle: "Evan Luo",
+    handle: "Stephanie (Tien) Ng",
   },
   {
     icon: <Mail size={20} />,
-    href: "mailto:contact@ohevan.com",
+    href: "mailto:tien.nguyen@columbia.edu",
     label: "Email",
-    handle: "contact@ohevan.com",
+    handle: "tien.nguyen@columbia.edu",
   },
   {
     icon: <Github size={20} />,
-    href: "https://github.com/evannotfound",
+    href: "https://github.com/stephanienguyen2020",
     label: "Github",
-    handle: "EvanNotFound",
+    handle: "StephanieNguyen2020",
   },
 ];
 
