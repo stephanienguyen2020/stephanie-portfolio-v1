@@ -9,18 +9,18 @@ import React from "react";
 
 export const metadata: Metadata = {
   title: {
-    default: "EvanNotFound's Portfolio",
-    template: "%s | EvanNotFound",
+    default: "Stephanie Nguyen's Portfolio",
+    template: "%s | StephanieNguyen",
   },
-  description: "A student and a Front-end developer in Montreal, Canada",
+  description: "Third-year Computer Science student specializing in Full-stack development, AI/ML, and blockchain technologies. Currently based in NYC",
   openGraph: {
-    title: "EvanNotFound's Portfolio",
-    description: "A student and a Front-end developer in Montreal, Canada",
+    title: "Stephanie Nguyen's Portfolio",
+    description: "Third-year Computer Science student specializing in Full-stack development, AI/ML, and blockchain technologies. Currently based in NYC",
     url: "https://evannotfound.com",
-    siteName: "EvanNotFound's Portfolio",
+    siteName: "Stephanie Nguyen's Portfolio",
     images: [
       {
-        url: "https://evannotfound.com/og.png",
+        url: "https://static.thenounproject.com/png/586334-200.png",
         width: 1920,
         height: 1080,
       },

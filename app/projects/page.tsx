@@ -56,7 +56,8 @@ export default async function ProjectsPage() {
             Projects
           </AnimatedTitleWord>
           <AnimatedText className="mt-4 text-zinc-400">
-            Projects I've worked on, some personal, some just for fun.
+          As a passionate Software Development Engineer, I've had the opportunity to work on a wide array of projects that span personal interests, academic pursuits, and professional assignments. 
+          This portfolio is a curated showcase of my journey through software development, highlighting the challenges I've embraced and the solutions I've engineered.
           </AnimatedText>
         </div>
         <AnimatedDivider className={"h-px bg-zinc-800"} />
