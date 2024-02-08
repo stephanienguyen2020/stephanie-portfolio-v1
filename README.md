@@ -1,2 +1,2 @@
 # portfolio-v3
- Evan's Portfolio
+ Stephanie's SWE Portfolio (V1)
