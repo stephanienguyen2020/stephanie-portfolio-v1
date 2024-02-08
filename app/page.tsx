@@ -38,7 +38,7 @@ export default function Home() {
       <div className="hidden sm:block my-16 text-center animate-fade-in">
         <h2 className="px-8 text-sm text-zinc-500 select-none">
           Hi, my name is <span className={"font-bold"}>Stephanie</span>. I'm a 
-          third-year CS student at Columbia University. 
+          CS student at Columbia University. 
           Specializing in Full-stack, AI/ML, and blockchain innovation. 
           Committed to leveraging cutting-edge tech to solve complex challenges and drive forward-thinking solutions.
           <div className={"mt-1"}>
@@ -53,7 +53,7 @@ export default function Home() {
       >
         <h2 className="px-8 text-sm text-zinc-500 ">
           Hi, my name is <span className={"font-bold"}>Stephanie</span>. I'm a 
-          third-year CS student at Columbia University. 
+          CS student at Columbia University. 
           Specializing in Full-stack, AI/ML, and blockchain innovation. 
           Committed to leveraging cutting-edge tech to solve complex challenges and drive forward-thinking solutions.
           <div className={"mt-2"}>
