@@ -40,7 +40,7 @@ export default async function Page() {
             <p className="max-w-[600px] text-white/80 md:text-xl dark:text-white/80 mx-auto">
               CS student by day, indie hacker by night.
               <br />
-              16x Hackathon Winner. Everything Cloud, Blockchain & AI.
+              17x Hackathon Winner. Everything Cloud, Blockchain & AI.
               <br />
               Currently based in New York.
             </p>

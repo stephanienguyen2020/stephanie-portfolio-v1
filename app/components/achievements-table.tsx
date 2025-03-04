@@ -65,6 +65,13 @@ const achievements: Achievement[] = [
   },
   {
     title: "First Place",
+    competition: "OpenLedger Ideathon",
+    roles: ["Product Manager"],
+    year: 2025,
+    color: "from-yellow-500 to-amber-500",
+  },
+  {
+    title: "First Place",
     competition: "Amazon x CodePath Design Challenge",
     roles: ["Product Manager"],
     year: 2025,

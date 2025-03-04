@@ -9,6 +9,21 @@ export interface Project {
 
 export const projects: Project[] = [
   {
+    title: "HedgeFi",
+    description:
+      "AI-powered gateway to the largest MemeCoin factory, marketplace, and prediction market on Near & Aurora.",
+    image: "/hedgefi.png",
+    link: "https://youtu.be/i6lvo21a63o",
+    github: "https://github.com/stephanienguyen2020/hedgefi/",
+    tags: [
+      "Next.js",
+      "Python",
+      "Solidity",
+      "Aurora & Near Protocol",
+      "ElizaOS",
+    ],
+  },
+  {
     title: "Innovation Workflow",
     description:
       "Supporting designers in brainstorming, prototyping, and iterative ideation.",

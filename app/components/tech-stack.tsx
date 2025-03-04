@@ -54,6 +54,7 @@ const technologies = [
     skills: [
       "Solidity",
       "Rust",
+      "Anchor",
       "Vyper",
       "Foundry",
       "Hardhat",
